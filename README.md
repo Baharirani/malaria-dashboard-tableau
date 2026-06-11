@@ -13,7 +13,7 @@ This project presents an **interactive Tableau dashboard** analysing global mala
 
 - Design a clear and interactive data visualisation for a global health dataset
 - Analyse malaria incidence and mortality trends across regions and time
-- Apply advanced Tableau features including LOD calculations and geographic mapping
+- Apply advanced Tableau features, including LOD calculations and geographic mapping
 - Communicate complex public health data in an accessible and actionable format
 
 ---
@@ -46,7 +46,7 @@ This project presents an **interactive Tableau dashboard** analysing global mala
 - 📈 **Trend Lines** — Year-on-year malaria cases and deaths from 2000 to present
 - 🌍 **Regional Comparison** — Side-by-side comparison of WHO regions
 - 🔢 **KPI Cards** — Key statistics: total cases, total deaths, highest-risk regions
-- 🎛️ **Interactive Filters** — Filter by year, region, country and metric type
+- 🎛️ **Interactive Filters** — Filter by year, region, country, and metric type
 
 ---
 
@@ -81,7 +81,7 @@ malaria-dashboard-tableau/
 ## 🖥️ How to View the Dashboard
 
 **Option 1 — Tableau Public (recommended):**
-Open the dashboard directly on Tableau Public: *(link to be added after publishing)*
+Open the dashboard directly on Tableau Public: https://public.tableau.com/app/profile/bahar.irani1397/viz/Bahar_Irani/Dashboard1
 
 **Option 2 — Tableau Desktop:**
 ```bash
